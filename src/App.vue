@@ -2,6 +2,7 @@
 import Header from './components/Header.vue';
 import Hero from './components/Hero.vue';
 import Projects from './components/Projects.vue';
+import Footer from './components/Footer.vue';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -17,6 +18,7 @@ AOS.init({
     <Header />
     <Hero />
     <Projects />
+    <Footer />
   </div>
 </template>
 

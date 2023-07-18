@@ -2,12 +2,12 @@
 </script>
 
 <template>
-    <div class="container-header">
-        <a href="/" class="container-header-logo" data-aos="fade-right">Portfolio</a>
-        <ul class="container-header-links" data-aos="fade-left">
+    <div class="container-header" data-aos="fade-in">
+        <a href="/" class="container-header-logo">Portfolio</a>
+        <ul class="container-header-links">
             <li><a href="/" class="container-header-link">Projects</a></li>
-            <li><a href="/" class="container-header-link">Constact</a></li>
-            <li><a href="/" class="container-header-link">About Us</a></li>
+            <li><a href="/" class="container-header-link">Contact</a></li>
+            <li><a href="/" class="container-header-link">About</a></li>
         </ul>
     </div>
 </template>
